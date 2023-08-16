@@ -437,7 +437,7 @@ class Currency
         'INR' => [
             'code' => 'INR',
             'title' => 'Indian Rupee ₹',
-            'symbol' => '₹',
+            'symbol' => 'DT',
             'precision' => 2,
             'thousandSeparator' => ',',
             'decimalSeparator' => '.',
