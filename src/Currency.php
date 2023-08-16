@@ -83,6 +83,15 @@ class Currency
             'decimalSeparator' => '.',
             'symbolPlacement' => 'before'
         ],
+      'TND' => [
+            'code' => 'TND',
+            'title' => 'DINAR TN',
+            'symbol' => 'DT',
+            'precision' => 2,
+            'thousandSeparator' => ',',
+            'decimalSeparator' => '.',
+            'symbolPlacement' => 'before'
+        ],
         'ARS' => [
             'code' => 'ARS',
             'title' => 'Argentine Peso',
